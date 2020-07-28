@@ -1,4 +1,5 @@
-### ^-^
+### ^-^  
+All problems in computer science can be solved by another level of indirection.
 
 <!--
 **Mint-Choco-Love/Mint-Choco-Love** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
